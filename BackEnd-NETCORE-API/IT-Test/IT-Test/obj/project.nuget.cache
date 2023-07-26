@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tly/Qjn1dnfC42SfehbgPkWMxZR0PiKc+DNcqFftNuaL4KyMSfWbq44c1jc+iL4fnZwQXTbDjdw/CF12sV1I6g==",
+  "dgSpecHash": "/YIDKp10ksw4kGakUXu4KObW4C4kEI4rQkydRp22UvZPmVW6Pq4IE8UPjKAzZb16AdMl0BM9NcmvVCjP1BJsaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxip\\OneDrive\\Documentos\\MAXX\\IT-Test\\IT-Test\\IT-Test\\IT-Test.csproj",
+  "projectFilePath": "C:\\Users\\maxip\\OneDrive\\Escritorio\\IT-Test\\BackEnd-NETCORE-API\\IT-Test\\IT-Test\\IT-Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxip\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.20\\microsoft.aspnetcore.authentication.jwtbearer.6.0.20.nupkg.sha512",
     "C:\\Users\\maxip\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -902,11 +902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxip\\OneDrive\\Documentos\\MAXX\\IT-Test\\IT-Test\\IT-Test\\IT-Test.csproj",
+      "projectUniqueName": "C:\\Users\\maxip\\OneDrive\\Escritorio\\IT-Test\\BackEnd-NETCORE-API\\IT-Test\\IT-Test\\IT-Test.csproj",
       "projectName": "IT-Test",
-      "projectPath": "C:\\Users\\maxip\\OneDrive\\Documentos\\MAXX\\IT-Test\\IT-Test\\IT-Test\\IT-Test.csproj",
+      "projectPath": "C:\\Users\\maxip\\OneDrive\\Escritorio\\IT-Test\\BackEnd-NETCORE-API\\IT-Test\\IT-Test\\IT-Test.csproj",
       "packagesPath": "C:\\Users\\maxip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxip\\OneDrive\\Documentos\\MAXX\\IT-Test\\IT-Test\\IT-Test\\obj\\",
+      "outputPath": "C:\\Users\\maxip\\OneDrive\\Escritorio\\IT-Test\\BackEnd-NETCORE-API\\IT-Test\\IT-Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxip\\AppData\\Roaming\\NuGet\\NuGet.Config",
